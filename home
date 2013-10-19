@@ -1,0 +1,13 @@
+<!DOCTYPE html public "-//W3c//DTD HTML 4.01 Transitional//EN">
+<html template="true">
+<head>
+<meta content="text/html; charset=ISO-8859-1"
+http-equip="content=type">
+<title>Home page</title>
+<script type="text/javascript;">
+function uppercase(){
+document.form1.outstring.value= document.form1.instring.value.toUpperCase();
+}
+</script.
+</head>
+</html>
